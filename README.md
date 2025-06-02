@@ -1,5 +1,8 @@
 # FKEGW
 
+Yuxiang Hong, Kai Lin, Jing Xu, Shengyong Li, Baohua Chang, and Dong Du, Expert knowledge-guided deep neural network based on context-aware hierarchy for foils joining quality monitoring, Advanced Engineering Informatics, 2025.
+
+
 # Pytorch
 * Pytorch implementation of FKEGW
 
